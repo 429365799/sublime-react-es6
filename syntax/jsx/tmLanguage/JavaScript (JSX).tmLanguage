@@ -1415,7 +1415,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>\b(return|yield)\b</string>
+					<string>\b(return|yield|async|await)\b</string>
 					<key>name</key>
 					<string>keyword.control.flow.js</string>
 				</dict>
